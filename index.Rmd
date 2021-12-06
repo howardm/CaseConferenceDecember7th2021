@@ -94,10 +94,6 @@ icon_style(fontawesome("link"), scale = 1, fill = "white")
 howardmann.us
 
 
-```{r icon-stylex}
-icon_style(fontawesome("paper-plane"), scale = 1, fill = "white")
-```
-
 ### December 7th, 2021
 
 
