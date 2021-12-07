@@ -156,6 +156,7 @@ name: case1
 ![:scale 95%](images/01b.jpg)
 ]
 
+
 ] <!--end of panel-->
 
 
@@ -174,6 +175,20 @@ Questions: What management was instituted ? What was the outcome of the complica
 ![:scale 93%](images/01d.jpg)
 
 ]
+
+
+] <!--end of panel-->
+
+.panel[.panel-name[Explanation]
+
+.big[.blue[Diagnosis: Acute re-implantation response]
+
+This is sometimes called *acute graft dysfunction*.  It is a form of acute lung injury edema, presumably mediated by cytokines, and related to ischemia-reperfusion of the donor lungs.
+
+Veno-venous ECMO was required to address severe hypoxia.
+
+Fortunately, it is usually mild and resolves quickly. ]
+
 
 ] <!--end of panel-->
 
@@ -228,7 +243,20 @@ Representative images from an Expiration Series
 
 ] <!--end of panel-->
 
+.panel[.panel-name[Explanation]
 
+.pull-left[.blue[Diagnosis: Constrictive Bronchiolitis]
+
+When the pathology is substantial and diffuse, a pattern of mosaic attenutation may be very subtle. In this patient, notice how little lung volumes diminish on the Expiration Series. When substantial expiratory airflow obstruction is present, a patient cannot expel much air in the time usually permitted by the instruction: "Breathe in... and now breathe all the way out" -- usually a few seconds only. This is a pitfall.]
+
+.pull-right[
+
+![:scale 95%](images/2c.jpg)
+]
+
+
+
+] <!--end of panel-->
 
 
 ] <!--end of panelset-->
@@ -268,6 +296,21 @@ Pre- and post-transplantation CBCs revealed mild eosinophilia.
 
 ![:scale 100%](images/3b.jpg)]
 
+
+] <!--end of panel-->
+
+.panel[.panel-name[Explanation]
+
+.pull-left[.blue[Diagnosis: Strongyloides hyperinfection]
+
+The organisms are identifiable on wet-mount examination of a sample, but may be overlooked when not considered a possible etiology.
+
+A history of eosinophilia is a clue to the presence of the organism in the patient at the time of transplantation.]
+
+.pull-right[
+
+![:scale 100%](images/3c.jpg)
+]
 
 ] <!--end of panel-->
 
@@ -327,6 +370,34 @@ Chest Radiography after lung transplantation. (The Edwards Sapien aortic valve d
 
 ] <!--end of panel-->
 
+.panel[.panel-name[Explanation]
+
+.pull-left[.blue[Diagnoses:] 
+
+1. Early disruption of the sternal portion of the clamshell incision.
+
+2. Localized pneumothorax with mild transcostal herniation of lung at the left extremity of the clamshell chest wall incision.]
+
+.pull-right[
+
+.pull-left[
+
+![:scale 100%](images/4e.jpg)
+
+]
+
+.pull-right[
+
+![:scale 77%](images/4f.jpg)
+
+]
+
+]
+
+
+
+] <!--end of panel-->
+
 ] <!--end of panelset-->
 
 
@@ -365,7 +436,28 @@ Fever evaluation  4 months after stem cell transplantation
 
 ] <!--end of panel-->
 
+.panel[.panel-name[Explanation]
 
+.pull-left[.blue[Diagnosis: CT-guided aspiration yielded Mucor.]
+
+While not pathognomonic, the presence of the *bird's nest sign* in this circumstance is very suggestive of this microbial etiology. 
+
+We give credit to Vogl and colleagues for describing the sign in 2000.
+
+]
+
+.pull-right[
+
+![:scale 100%](images/5c.jpg)
+
+
+.center[![:scale 50%](images/5d.jpg)]
+
+.smallest[Credit:Unsplash.com -- @thdrkqwn]
+
+]
+
+] <!--end of panel-->
 
 ] <!--end of panelset-->
 
@@ -398,7 +490,29 @@ Imaging six months after single right lung transplantation (diffuse left lung fi
 
 ] <!--end of panel-->
 
+.panel[.panel-name[Explanation]
 
+.pull-left[.blue[Diagnosis: substantial focal stenosis right main bronchus -- anastamotic site.]
+
+.grey[Key points:
+
+* this is easily overlooked on axial images when scrolling throught the images.
+
+* it's important to review Coronal and Sagittal series
+
+* of course, it's helpful if one knows in advance that this is suspected !]]
+
+.pull-right[
+
+.center[![:scale 55%](images/6a.jpg)]
+
+.center[![:scale 55%](images/6b.jpg)]
+
+]
+
+
+
+] <!--end of panel-->
 
 ] <!--end of panelset-->
 
@@ -458,6 +572,19 @@ In an August, he presented with acute chest discomfort and slightly increased sh
 
 ] <!--end of panel-->
 
+.panel[.panel-name[Explanation]
+
+Diagnosis: Spontaneous pneumomediastinum.
+
+The air emanated from alveoli -- The *Macklin Phenomenon*
+
+It's known to occur in this context, and is also described as an *air leak phenomenon*.
+
+<br>
+
+![:scale 70%](images/7f.jpg)
+
+] <!--end of panel-->
 
 ] <!--end of panelset-->
 
@@ -508,6 +635,35 @@ Evaluate vascular & airway anatomy carefully!
 
 ] <!--end of panel-->
 
+.panel[.panel-name[Explanation]
+
+
+
+.pull-left[.blue[Diagnosis: Lobar torsion and resultant pulmonary ischemia with, likely, infarcts.]
+
+It's a difficult, but important, diagnosis to make. Correct analysis of imaging findings is critical.
+
+Scroll throught the images alonside for the relevant anatomy. View coronal and sagittal MPRs whenever this is a possibility.
+
+This axial image is key: it shows an abrupt narrowing of left pulmonary artery .red[&xrarr;] 
+
+.center[![:scale 30%](images/8b.jpg)]
+
+]
+
+.pull-right[
+
+<div style="text-align:center;">
+<iframe class="pacsbin"
+         id="case8b"
+         src="https://www.pacsbin.com/c/WJHF7XyVjv?s=61ac298da093905a97cee408&i=61ac298da093905a97cee409&ww=255&wc=128&an=false&header=false&notes=false&overlay=false" 
+         style="width: 500px; height: 500px; border: 0;"></iframe>
+</div>
+
+]
+
+] <!--end of panel-->
+
 ] <!--end of panelset-->
 
 
@@ -542,7 +698,15 @@ History: Lung transplantation
 
 ] <!--end of panel-->
 
+.panel[.panel-name[Explanation]
 
+.big[.blue[Diagnosis: Post-transplantation Lymphoproliferative Disorder.]
+
+This was a surprise as it is a solitary nodule!
+
+PTDL usually presents as a multifocal process with or without nodal enlargement. Tissue sampling is necessary to make the diagnosis.]
+
+] <!--end of panel-->
 
 ] <!--end of panelset-->
 
@@ -578,7 +742,15 @@ name: case10
 
 ] <!--end of panel-->
 
+.panel[.panel-name[Explanation]
 
+.big[.blue[Diagnosis: Nocardia pneumonia]
+
+.grey[Key point: As with any suspected pulmonary infection, the presence of low-attenuation foci within is very suggestive of a necrotzing pneumonia. Tissue sampling is necessary to determine the microbial etiology.]]
+
+
+
+] <!--end of panel-->
 
 ] <!--end of panelset-->
 
@@ -631,6 +803,28 @@ A respiratory illness 9 months after stem cell transplantation. A course of trea
 
 ] <!--end of panel-->
 
+.panel[.panel-name[Explanation]
+
+.pull-left[.blue[Presumptive diagnosis: Steroid-responsive Organizing Pneumonia]
+
+.small[.grey[Key points:
+
+* the opacities are very consistent with foci of Organizing Pneumonia
+
+* in practice, the usual work-up for infection is conducted -- and excluded.
+
+* the rapid improvement also supports the presumptive diagnosis
+
+* Organizing Pneumonia may be one pathologic manifestation of so-called *acute graft-versus-host disease*. Lung biopsies are not typically employed to make that diagnosis, so relatively little is known about the pathologic manifestations.]]]
+
+.pull-right[
+
+<br><br>
+
+.center[![:scale 100%](images/11e.jpg)]]
+
+] <!--end of panel-->
+
 ] <!--end of panelset-->
 
 
@@ -663,7 +857,17 @@ Unilateral left lung transplantation
 
 ] <!--end of panel-->
 
+.panel[.panel-name[Explanation]
 
+.big[.blue[Diagnosis: Pulmonary vein (left inferior) thrombosis and substantial parenchymal venous ischemia.]
+
+This is extremely uncommon. 
+
+A diagnosis is readily made with a CTA examination.]
+
+
+
+] <!--end of panel-->
 
 ] <!--end of panelset-->
 
@@ -718,6 +922,29 @@ This patient has undergone lung transplanation. He is asymptomatic.
 
 ] <!--end of panel-->
 
+.panel[.panel-name[Explanation]
+
+.big[.blue[Diagnosis: "Benign" pneumatosis intestinalis, with associated pneumoretroperitoneum, and pneumomediastinum.]
+
+The patient had no abdominal symptoms throughout the month.
+
+This has been the subject of many Case Reports in this context.
+
+Which came first: the pneumomediastiunum or the pneumatosis coli 
+
+.pull-right[
+
+.center[![:scale 40%](images/12e.jpg)]]
+
+.pull-left[
+
+.smallest[Source: unsplash.com]]
+
+]
+
+] <!--end of panel-->
+
+
 ] <!--end of panelset-->
 
 
@@ -754,7 +981,15 @@ Imaging after lung transplantation
 
 ] <!--end of panel-->
 
+.panel[.panel-name[Explanation]
 
+Diagnosis: Trancostal herniation of lung
+
+.center[![:scale 50%](images/14c.jpg)]
+
+This not-infrequently occurs at the intercostal muscle portions of the clamshell incision and may be symmetric. It is typically asymptomatic when of this size.
+
+] <!--end of panel-->
 
 ] <!--end of panelset-->
 
@@ -792,7 +1027,19 @@ Imaging after lung transplantation. Measured FVC diminished between the two exam
 
 ] <!--end of panel-->
 
+.panel[.panel-name[Explanation]
 
+.big[.blue[Diagnosis: Chronic restrictive allograft dysfunction]
+
+Findings: ill-defined, very coarse, subsegmental-sized opacities in the upper lobes, right more than left. 
+
+The pathologic counterpart is the entity of *pleuro-parenchymal fibroelestosis*
+
+The process, as in this case, typically predominantly involves the apical lungs.
+
+It is one of the etiologies of Chronic Lung Allograft Dysfuntion, the other being Constrictive Bronchiolitis.]
+
+] <!--end of panel-->
 
 ] <!--end of panelset-->
 
